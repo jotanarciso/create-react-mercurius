@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "João Narciso <alo@jotanarciso.com",
   "main": "template.json",
-  "description": "A quick start Create React App template with Folder Structure, Reactstrap, Sass, React Router and Axios.",
+  "description": "A quick start Create React App template",
   "keywords": [
     "react",
     "create-react-app",
