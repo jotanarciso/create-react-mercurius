@@ -1,8 +1,8 @@
-import { ExampleView } from "@views";
+import { Home} from "@views";
 
-const Example_View = {
-  view: ExampleView,
-  path: "/path",
+const VIEW_Home = {
+  view: Home,
+  path: "/"
 };
 
-export default [Example_View];
+export default [VIEW_Home];
