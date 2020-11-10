@@ -37,7 +37,7 @@ export class NotificationService {
   warn(text) {
     Toast.fire({
       icon: 'warning',
-      title: 'Atenção!',
+      title: 'Warning!',
       text
     })
   }
@@ -45,7 +45,7 @@ export class NotificationService {
   info(text) {
     Toast.fire({
       icon: 'info',
-      title: 'Atenção!',
+      title: 'Warning!',
       text
     })
   }
