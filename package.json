@@ -1,6 +1,6 @@
 {
   "name": "cra-template-mercurius",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "author": "João Narciso <alo@jotanarciso.com",
   "main": "template.json",
@@ -14,7 +14,8 @@
     "react-router-dom",
     "axios",
     "bootstrap",
-    "sass"
+    "sass",
+    "sweetalert2"
   ],
   "files": [
     "template",
