@@ -1,10 +1,10 @@
 {
   "name": "cra-template-mercurius",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "João Narciso <alo@jotanarciso.com",
   "main": "template.json",
-  "description": "A quick start Create React App template with React Router, Reacstrap and Axios.",
+  "description": "A quick start Create React App template with Folder Structure, Reactstrap, Sass, React Router and Axios.",
   "keywords": [
     "react",
     "create-react-app",
@@ -12,7 +12,9 @@
     "eslint",
     "react-router",
     "react-router-dom",
-    "axios"
+    "axios",
+    "bootstrap",
+    "sass"
   ],
   "files": [
     "template",
