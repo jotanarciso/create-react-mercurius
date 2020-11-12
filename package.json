@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-mercurius",
+  "name": "@jotanarciso/cra-template-mercurius",
   "version": "1.0.6",
   "license": "MIT",
   "author": "João Narciso <alo@jotanarciso.com",
@@ -23,9 +23,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jotanarciso/create-react-mercurius",
-    "directory": "/"
+    "url": "https://github.com/jotanarciso/create-react-mercurius.git"
   },
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/"
+    },
   "bugs": {
     "url": "https://github.com/jotanarciso/create-react-mercurius/issues"
   },
